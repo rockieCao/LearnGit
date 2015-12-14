@@ -1,2 +1,2 @@
-# leetcodesol
-my repository for c++ solution to leetcode problems
+# Learn how to use Git
+my repository for git practice.
